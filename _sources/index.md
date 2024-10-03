@@ -14,13 +14,6 @@ about
 :hidden:
 :caption: A topic
 
-folder_topic/article_topic
-```
-
-
-```{toctree}
-:maxdepth: 1
-:caption: Programming
-
 folder_topic/coding
+folder_topic/article_topic
 ```
