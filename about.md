@@ -1,5 +1,5 @@
 # About
 
-> More information about your (your team) and your work.
+> I work in the Data Science Platform
 
-Some text about you here.
+I am interested in coding and data science.
